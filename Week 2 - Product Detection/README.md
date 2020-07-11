@@ -1,0 +1,2 @@
+# Product Detection
+Building multi-class image classification model for 42 image categories. I'm new to Machine Learning, therefore I used the pre-trained models from TensorFlow Hub. Managed to get 0.67023 accuracy using MobileNet with 14 epochs (with early stopping of 3 epochs).
